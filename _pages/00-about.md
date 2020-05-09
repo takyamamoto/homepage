@@ -4,4 +4,4 @@ title: About Me
 permalink: /about/
 ---
 
-Takuto Yamamoto
+- Takuto Yamamoto
