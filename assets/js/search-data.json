@@ -29,7 +29,7 @@
   
       ,"page1": {
           "title": "About Me",
-          "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
+          "content": "Takuto Yamamoto .",
           "url": "https://takyamamoto.github.io/homepage/about/",
           "relUrl": "/about/",
           "date": ""
@@ -38,6 +38,39 @@
   
 
   
+      ,"page2": {
+          "title": "Codes",
+          "content": "",
+          "url": "https://takyamamoto.github.io/homepage/codes/",
+          "relUrl": "/codes/",
+          "date": ""
+      }
+      
+  
+
+  
+
+  
+      ,"page4": {
+          "title": "Links",
+          "content": "",
+          "url": "https://takyamamoto.github.io/homepage/links/",
+          "relUrl": "/links/",
+          "date": ""
+      }
+      
+  
+
+  
+      ,"page5": {
+          "title": "Publications",
+          "content": "",
+          "url": "https://takyamamoto.github.io/homepage/publications/",
+          "relUrl": "/publications/",
+          "date": ""
+      }
+      
+  
 
   
   
@@ -59,7 +92,7 @@
   
 
   
-      ,"page10": {
+      ,"page13": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://takyamamoto.github.io/homepage/robots.txt",
